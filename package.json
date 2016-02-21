@@ -1,0 +1,28 @@
+{
+  "name": "js-templates",
+  "description": "Generate JS code templates.",
+  "keywords": [
+    "js",
+    "templates",
+    "generate",
+    "code"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "dependencies": {
+    "sliced": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/js-templates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/js-templates/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/js-templates#readme"
+}
