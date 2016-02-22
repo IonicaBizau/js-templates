@@ -11,7 +11,7 @@ $ npm i --save js-templates
 ## Example
 
 ```js
-const templates = require("../");
+const templates = require("js-templates");
 
 console.log(templates("class-export", "MyClass"));
 // "use strict"
@@ -54,7 +54,7 @@ console.log(templates("function-export", "foo"));
 console.log(templates("example", "foo"));
 // "use strict";
 //
-// const foo = require("js-templates");
+// const foo = require("../lib");
 //
 // console.log(foo());
 ```
