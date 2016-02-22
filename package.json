@@ -15,6 +15,9 @@
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "dependencies": {
+    "js-templates.class-export": "^1.0.1",
+    "js-templates.example": "^1.0.1",
+    "js-templates.function-export": "^1.0.1",
     "sliced": "^1.0.1"
   },
   "repository": {
