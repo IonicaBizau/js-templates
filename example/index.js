@@ -37,3 +37,10 @@ console.log(templates("function-export", "foo"));
 // module.exports = function foo (a, b) {
 //     return a + b;
 // };
+
+console.log(templates("example", "foo"));
+// "use strict";
+//
+// const foo = require("../lib");
+//
+// console.log(foo());
