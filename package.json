@@ -8,12 +8,12 @@
     "code"
   ],
   "license": "MIT",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "dependencies": {
     "js-templates.class-export": "^1.0.1",
     "js-templates.example": "^1.0.1",
@@ -32,12 +32,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
