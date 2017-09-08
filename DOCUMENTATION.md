@@ -8,6 +8,7 @@ The first argument is the template name. The next arguments are passed to
 the libraries handling the templates.
 
 #### Params
+
 - **String** `type`: The template name.
 - **String** `name`: The library name (rendered in the template).
 
