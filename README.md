@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save js-templates
+# Using npm
+npm install --save js-templates
+
+# Using yarn
+yarn add js-templates
 ```
 
 
@@ -62,7 +66,7 @@ console.log(templates("function-export", "foo"));
 console.log(templates("example", "foo"));
 // "use strict";
 //
-// const foo = require("../lib");
+// const foo = require("js-templates/lib");
 //
 // console.log(foo());
 ```
@@ -75,7 +79,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
